@@ -1,0 +1,2 @@
+Registered audit: n=51 agreement=0.588 kappa=0.033 precision=0.095 recall=0.500 (tp=2 fp=19 fn=2 tn=28)
+Second reading, post hoc: n=51 agreement=0.824 kappa=0.223 precision=0.222 recall=0.500 (tp=2 fp=7 fn=2 tn=40)
